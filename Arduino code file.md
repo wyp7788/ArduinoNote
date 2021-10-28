@@ -56,7 +56,7 @@ For controlling the Arduino board and performing computations. 函数用于控�
    }
    ```
 
-​    **Note and Warnings**  
+    **Note and Warnings**  
 
 The analog input pins can be used as digital pins, referred to as A0, A1, etc. The exception is the Arduino Nano, Pro Mini, and Mini’s A6 and A7 pins, which can only be used as analog inputs. 模拟输入引脚也可被用于数字引脚，引脚编号为14<-->A0 etc... Arduino Nano, pro mini 的Ａ6，Ａ7引脚仅能作为模拟输入引脚。
 
